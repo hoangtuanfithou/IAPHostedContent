@@ -1,0 +1,263 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1849DCF4196FA4D400D6494C /* left-paper-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCE8196FA4D400D6494C /* left-paper-88.png */; };
+		1849DCF5196FA4D400D6494C /* left-paper-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCE9196FA4D400D6494C /* left-paper-128.png */; };
+		1849DCF6196FA4D400D6494C /* left-rock-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCEA196FA4D400D6494C /* left-rock-88.png */; };
+		1849DCF7196FA4D400D6494C /* left-rock-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCEB196FA4D400D6494C /* left-rock-128.png */; };
+		1849DCF8196FA4D400D6494C /* left-scissors-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCEC196FA4D400D6494C /* left-scissors-88.png */; };
+		1849DCF9196FA4D400D6494C /* left-scissors-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCED196FA4D400D6494C /* left-scissors-128.png */; };
+		1849DCFA196FA4D400D6494C /* right-paper-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCEE196FA4D400D6494C /* right-paper-88.png */; };
+		1849DCFB196FA4D400D6494C /* right-paper-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCEF196FA4D400D6494C /* right-paper-128.png */; };
+		1849DCFC196FA4D400D6494C /* right-rock-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCF0196FA4D400D6494C /* right-rock-88.png */; };
+		1849DCFD196FA4D400D6494C /* right-rock-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCF1196FA4D400D6494C /* right-rock-128.png */; };
+		1849DCFE196FA4D400D6494C /* right-scissors-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCF2196FA4D400D6494C /* right-scissors-88.png */; };
+		1849DCFF196FA4D400D6494C /* right-scissors-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 1849DCF3196FA4D400D6494C /* right-scissors-128.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1849DCDE196FA4AF00D6494C /* CreatingHostedContent */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = CreatingHostedContent; sourceTree = BUILT_PRODUCTS_DIR; };
+		1849DCE2196FA4AF00D6494C /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		1849DCE8196FA4D400D6494C /* left-paper-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left-paper-88.png"; sourceTree = "<group>"; };
+		1849DCE9196FA4D400D6494C /* left-paper-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left-paper-128.png"; sourceTree = "<group>"; };
+		1849DCEA196FA4D400D6494C /* left-rock-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left-rock-88.png"; sourceTree = "<group>"; };
+		1849DCEB196FA4D400D6494C /* left-rock-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left-rock-128.png"; sourceTree = "<group>"; };
+		1849DCEC196FA4D400D6494C /* left-scissors-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left-scissors-88.png"; sourceTree = "<group>"; };
+		1849DCED196FA4D400D6494C /* left-scissors-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left-scissors-128.png"; sourceTree = "<group>"; };
+		1849DCEE196FA4D400D6494C /* right-paper-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right-paper-88.png"; sourceTree = "<group>"; };
+		1849DCEF196FA4D400D6494C /* right-paper-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right-paper-128.png"; sourceTree = "<group>"; };
+		1849DCF0196FA4D400D6494C /* right-rock-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right-rock-88.png"; sourceTree = "<group>"; };
+		1849DCF1196FA4D400D6494C /* right-rock-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right-rock-128.png"; sourceTree = "<group>"; };
+		1849DCF2196FA4D400D6494C /* right-scissors-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right-scissors-88.png"; sourceTree = "<group>"; };
+		1849DCF3196FA4D400D6494C /* right-scissors-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right-scissors-128.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1849DCD7196FA4AF00D6494C = {
+			isa = PBXGroup;
+			children = (
+				1849DCE0196FA4AF00D6494C /* TestIAPHost */,
+				1849DCDF196FA4AF00D6494C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1849DCDF196FA4AF00D6494C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1849DCDE196FA4AF00D6494C /* CreatingHostedContent */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1849DCE0196FA4AF00D6494C /* TestIAPHost */ = {
+			isa = PBXGroup;
+			children = (
+				1849DCE1196FA4AF00D6494C /* Supporting Files */,
+			);
+			path = TestIAPHost;
+			sourceTree = "<group>";
+		};
+		1849DCE1196FA4AF00D6494C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1849DCE8196FA4D400D6494C /* left-paper-88.png */,
+				1849DCE9196FA4D400D6494C /* left-paper-128.png */,
+				1849DCEA196FA4D400D6494C /* left-rock-88.png */,
+				1849DCEB196FA4D400D6494C /* left-rock-128.png */,
+				1849DCEC196FA4D400D6494C /* left-scissors-88.png */,
+				1849DCED196FA4D400D6494C /* left-scissors-128.png */,
+				1849DCEE196FA4D400D6494C /* right-paper-88.png */,
+				1849DCEF196FA4D400D6494C /* right-paper-128.png */,
+				1849DCF0196FA4D400D6494C /* right-rock-88.png */,
+				1849DCF1196FA4D400D6494C /* right-rock-128.png */,
+				1849DCF2196FA4D400D6494C /* right-scissors-88.png */,
+				1849DCF3196FA4D400D6494C /* right-scissors-128.png */,
+				1849DCE2196FA4AF00D6494C /* ContentInfo.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1849DCDD196FA4AF00D6494C /* CreatingHostedContent */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1849DCE5196FA4AF00D6494C /* Build configuration list for PBXNativeTarget "CreatingHostedContent" */;
+			buildPhases = (
+				1849DCDC196FA4AF00D6494C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CreatingHostedContent;
+			productName = TestIAPHost;
+			productReference = 1849DCDE196FA4AF00D6494C /* CreatingHostedContent */;
+			productType = "com.apple.product-type.in-app-purchase-content";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1849DCD8196FA4AF00D6494C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = RS;
+			};
+			buildConfigurationList = 1849DCDB196FA4AF00D6494C /* Build configuration list for PBXProject "CreatingHostedContent" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1849DCD7196FA4AF00D6494C;
+			productRefGroup = 1849DCDF196FA4AF00D6494C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1849DCDD196FA4AF00D6494C /* CreatingHostedContent */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1849DCDC196FA4AF00D6494C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1849DCF4196FA4D400D6494C /* left-paper-88.png in Resources */,
+				1849DCFF196FA4D400D6494C /* right-scissors-128.png in Resources */,
+				1849DCFB196FA4D400D6494C /* right-paper-128.png in Resources */,
+				1849DCFA196FA4D400D6494C /* right-paper-88.png in Resources */,
+				1849DCFE196FA4D400D6494C /* right-scissors-88.png in Resources */,
+				1849DCFD196FA4D400D6494C /* right-rock-128.png in Resources */,
+				1849DCFC196FA4D400D6494C /* right-rock-88.png in Resources */,
+				1849DCF8196FA4D400D6494C /* left-scissors-88.png in Resources */,
+				1849DCF5196FA4D400D6494C /* left-paper-128.png in Resources */,
+				1849DCF9196FA4D400D6494C /* left-scissors-128.png in Resources */,
+				1849DCF6196FA4D400D6494C /* left-rock-88.png in Resources */,
+				1849DCF7196FA4D400D6494C /* left-rock-128.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1849DCE3196FA4AF00D6494C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PROVISIONING_PROFILE = "EA2715E3-F276-41B9-B5C5-C5766690FD6E";
+			};
+			name = Debug;
+		};
+		1849DCE4196FA4AF00D6494C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PROVISIONING_PROFILE = "EA2715E3-F276-41B9-B5C5-C5766690FD6E";
+			};
+			name = Release;
+		};
+		1849DCE6196FA4AF00D6494C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = TestIAPHost/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = CreatingHostedContent;
+				PROVISIONING_PROFILE = "EA2715E3-F276-41B9-B5C5-C5766690FD6E";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Debug;
+		};
+		1849DCE7196FA4AF00D6494C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = TestIAPHost/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = CreatingHostedContent;
+				PROVISIONING_PROFILE = "EA2715E3-F276-41B9-B5C5-C5766690FD6E";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1849DCDB196FA4AF00D6494C /* Build configuration list for PBXProject "CreatingHostedContent" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1849DCE3196FA4AF00D6494C /* Debug */,
+				1849DCE4196FA4AF00D6494C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1849DCE5196FA4AF00D6494C /* Build configuration list for PBXNativeTarget "CreatingHostedContent" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1849DCE6196FA4AF00D6494C /* Debug */,
+				1849DCE7196FA4AF00D6494C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1849DCD8196FA4AF00D6494C /* Project object */;
+}
